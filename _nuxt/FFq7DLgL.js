@@ -1,1 +1,0 @@
-import{_ as r,d as s,o as a,r as o}from"./Cyv_-7Zb.js";const t={};function n(e,c){return a(),s("thead",null,[o(e.$slots,"default")])}const d=Object.assign(r(t,[["render",n]]),{__name:"ProseThead"});export{d as default};
