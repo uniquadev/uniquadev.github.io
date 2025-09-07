@@ -1,1 +1,0 @@
-import{d as e,o as t,m as o}from"./DQ4HrbHP.js";const a={class:"inline-block px-2 py-1 text-xs bg-secondary text-gray-300 rounded-md border border-gray-600 hover:border-primary transition-colors duration-200"},i={__name:"BlogTag",props:{tag:{type:String,required:!0}},setup(r){return(n,s)=>(t(),e("span",a,o(r.tag),1))}};export{i as _};

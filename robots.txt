@@ -1,5 +1,2 @@
 User-Agent: *
 Disallow:
-
-User-agent: Google-adstxt
-Disallow:
