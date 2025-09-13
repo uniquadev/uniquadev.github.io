@@ -1,0 +1,1 @@
+import{_ as r,d as s,o,r as n}from"./DUA2pWT4.js";const t={};function a(e,c){return o(),s("p",null,[n(e.$slots,"default")])}const l=Object.assign(r(t,[["render",a]]),{__name:"ProseP"});export{l as default};
