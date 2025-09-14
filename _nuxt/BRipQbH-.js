@@ -1,0 +1,1 @@
+import{_ as r,d as s,o,r as t}from"./DkTevS4r.js";const n={};function a(e,c){return o(),s("td",null,[t(e.$slots,"default")])}const d=Object.assign(r(n,[["render",a]]),{__name:"ProseTd"});export{d as default};
