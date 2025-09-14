@@ -1,0 +1,15 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls",
+            "delegate_permission/common.get_login_creds"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.uniquadev.mangaswift",
+            "sha256_cert_fingerprints": [
+                "42:EE:78:06:39:25:5E:EB:59:96:70:1F:ED:E8:5B:3F:EE:36:CD:47:D0:E7:3B:C3:8F:95:96:0F:95:1E:4D:06"
+            ]
+        }
+    }
+]

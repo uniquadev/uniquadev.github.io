@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "2NDADAVZZ5.com.uniquadev.mangaswift",
+                "paths": [
+                    "/mangaswift/*"
+                ]
+            }
+        ]
+    }
+}
